@@ -40,9 +40,11 @@ The model will be trained within 25 epochs.
 
 ![epoch](https://user-images.githubusercontent.com/36487462/94345890-f0e8fe00-0035-11eb-8dae-ae6c0e98dd9e.png)
 
+
+
 After 25th epoch:
 
-![MSE](https://user-images.githubusercontent.com/36487462/94345923-1bd35200-0036-11eb-8cea-4e896b174965.png)
+![MSE](https://user-images.githubusercontent.com/36487462/94346214-f5aeb180-0037-11eb-8c2c-c07ff19b023a.png)
 
 ## 4- Predict user rating
 
