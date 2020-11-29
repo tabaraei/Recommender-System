@@ -1,6 +1,8 @@
 # Recommender System
 Implementing a Recommender system using Matrix Factorization Collaborative Filtering
 
+![rs](https://user-images.githubusercontent.com/36487462/100555118-a3477680-32ae-11eb-9196-bbb4d0d506df.png)
+
 In this project, our goal is to recommend top 5 movies to a user, based on Matrix Factorization, using MovieLens 20M dataset.
 You can download the dataset from [kaggle](https://www.kaggle.com/grouplens/movielens-20m-dataset).
 Four steps are taken through this project. Corresponding (.py) files should run in this order:
@@ -9,6 +11,7 @@ Four steps are taken through this project. Corresponding (.py) files should run 
 - Data analysis (analyzie.py)
 - Create model (learning.py)
 - Predict user rating (predict.py)
+
 
 ## 1- Preprocess:
 
